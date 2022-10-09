@@ -7,3 +7,10 @@
 
 <h2>Exploratory Data Analysis Using Seaborn, Matplotlib</h2>
 <a href="https://github.com/gnanda1/datascience-projects/blob/main/data-science-projects/New_York_AirBnB_Listing_Analysis.ipynb">AirBnB NewYork Dataset Analysis</a><br />
+
+<h2>Structured Data Projects</h2>
+
+<h3>1. Classification Projects</h3>
+<a href="https://github.com/gnanda1/datascience-projects/blob/main/data-science-projects/heart-disease-classification.ipynb">Heart Disease Classification</a><br />
+
+<h3>2. Regression Projects</h3>
